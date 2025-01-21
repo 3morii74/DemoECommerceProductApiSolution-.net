@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Application", "ProductApi.Application\ProductApi.Application.csproj", "{9BE0A18A-C005-4A52-8213-F7B6612CBC61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductApi.Application", "ProductApi.Application\ProductApi.Application.csproj", "{9BE0A18A-C005-4A52-8213-F7B6612CBC61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "productApi.Domain", "productApi.Domain\productApi.Domain.csproj", "{59E2043A-9A27-4F6B-9638-F01B00F44084}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductApi.Domain", "productApi.Domain\ProductApi.Domain.csproj", "{59E2043A-9A27-4F6B-9638-F01B00F44084}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Infrastructure", "ProductApi.Infrastructure\ProductApi.Infrastructure.csproj", "{ADE013C7-76B3-4B24-B2A6-103BA3C0A629}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductApi.Infrastructure", "ProductApi.Infrastructure\ProductApi.Infrastructure.csproj", "{ADE013C7-76B3-4B24-B2A6-103BA3C0A629}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Presentation", "ProductApi.Presentation\ProductApi.Presentation.csproj", "{3862E7F7-9091-4538-A84F-FA7C155DC0C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductApi.Presentation", "ProductApi.Presentation\ProductApi.Presentation.csproj", "{3862E7F7-9091-4538-A84F-FA7C155DC0C7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eCommmerce.SharedLibrary", "..\DemoEcommerce.SharedLibrarySolution\eCommmerce.SharedLibrary\eCommmerce.SharedLibrary.csproj", "{C5A033DB-585B-43CE-9273-B3D205C7963B}"
 EndProject

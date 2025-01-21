@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\DemoEcommerce.SharedLibrarySolution\eCommmerce.SharedLibrary\eCommmerce.SharedLibrary.csproj" />
-    <ProjectReference Include="..\productApi.Domain\productApi.Domain.csproj" />
+    <ProjectReference Include="..\productApi.Domain\ProductApi.Domain.csproj" />
   </ItemGroup>
 
 </Project>
